@@ -47,7 +47,7 @@ pip install -r requirements.txt
 
 The following graph shows the architecture of our model.
 
-![Model Architecture](figures/ModelArchitecture.png?raw=True "Model Architecture")
+![Model Architecture](figures/MultiheadSelfAttentionMLP.png?raw=True "Model Architecture")
 
 Multi-head Self Attention MLP Architecture. The input layer input_8 (InputLayer) is the input layer of the
 model which receives the vector (𝑥1 ... 𝑥𝑛). The layers dense_38, dense_39, dense_40, and dense_41 compose the first
@@ -61,4 +61,4 @@ adapts to multi-class classification by modifying the output dimension by the nu
 
 The following graph shows the system pipeline for cyber-attacks detection.
 
-![Model Architecture](figures/ModelArchitecture.png?raw=True "Model Architecture")
+![System Pipeline](figures/SystemModelPipelinev21.png?raw=True "System Pipeline")
