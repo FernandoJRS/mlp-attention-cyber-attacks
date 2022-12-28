@@ -22,9 +22,7 @@ the field of cybersecurity and we have carried out a comparative study with both
 
 This project is implemented in Python using the [Tensorflow](https://www.tensorflow.org/) libraries to develop the model.
 
-- OpenCV v4.4.0.46
 - Ipython v7.16.1
-- Scikit-Image v0.17.2
 - Scikit-Learn v0.24.2
 - Tensorflow v2.11.0
 - Livelossplot v0.5.3
